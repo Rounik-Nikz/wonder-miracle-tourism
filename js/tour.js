@@ -104,7 +104,7 @@
         smartSpeed: 1500,
         center: false,
         dots: false,
-        loop: true,
+        loop: false,
         margin: 25,
         nav : true,
         navText : [
